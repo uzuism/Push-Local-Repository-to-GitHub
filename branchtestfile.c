@@ -7,7 +7,7 @@
 
 <to be modified branch_A> local
 
-<to be modified branch_A> online
+<to be modified branch_A> online_edited
 
 
 <to be modified branch_B> local
