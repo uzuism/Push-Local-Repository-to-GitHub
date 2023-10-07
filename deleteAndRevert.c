@@ -5,3 +5,8 @@
 // second round of revert test.
 //
 // -git revert HEAD~1
+// -this command failed.
+//
+// 
+// first round of Reset test.
+//
