@@ -12,3 +12,5 @@
 //
 // add attribute a to be deleted
 //
+// add attribute b to be deleted
+//
