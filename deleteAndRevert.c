@@ -10,3 +10,5 @@
 // 
 // first round of Reset test.
 //
+// add attribute a to be deleted
+//
